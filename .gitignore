@@ -1,0 +1,26 @@
+# Go build output
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+# Coverage and profiling output
+coverage.*
+*.coverprofile
+*.prof
+*.pprof
+# Go workspace files (local to this machine)
+go.work
+go.work.sum
+# Vendor dependencies (remove this rule if vendor/ is committed)
+vendor/
+
+# Local Claude Code instructions
+CLAUDE.local.md
+.idea
+
+# Local configuration (copy config.example.yaml)
+config.yaml

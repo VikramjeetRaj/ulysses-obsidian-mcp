@@ -1,0 +1,4 @@
+vault: /path/to/vault
+search_size: 1GB
+log_path: /path/to/obsidian-mcp.log
+index_path: /path/to/index.sqlite
