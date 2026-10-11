@@ -1,6 +1,6 @@
 # ulysses-obsidian-mcp
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?v=9989e9cca47e25d91af12e1850f84adc)](https://m8ven.ai/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?v=37b04b4dc1654efb7681756d475b1e51)](https://m8ven.ai/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?s=readme)
 
 A Go [MCP](https://modelcontextprotocol.io) server that lets local AI clients (Codex over stdio, ChatGPT through a personal MCP plugin and Secure MCP Tunnel) search and maintain the Markdown notes in a Ulysses/Obsidian vault.
 
