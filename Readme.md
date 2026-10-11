@@ -1,5 +1,7 @@
 # ulysses-obsidian-mcp
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?v=9989e9cca47e25d91af12e1850f84adc)](https://m8ven.ai/mcp/vikramjeetraj-ulysses-obsidian-mcp-d9dy72?s=readme)
+
 A Go [MCP](https://modelcontextprotocol.io) server that lets local AI clients (Codex over stdio, ChatGPT through a personal MCP plugin and Secure MCP Tunnel) search and maintain the Markdown notes in a Ulysses/Obsidian vault.
 
 The vault's Markdown files are the source of truth. The search index is rebuildable and is never treated as a note.
